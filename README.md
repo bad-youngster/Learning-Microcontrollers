@@ -24,6 +24,10 @@ wokwi_study/
 4. 按 `Ctrl+Alt+B` 或点击 PlatformIO 的 Build 按钮编译
 5. 点击 Wokwi 扩展的 **Start Simulator** 按钮启动仿真
 
+## study classes demo
+``` txt
+   study demo code for git commit
+```
 ## 当前示例
 
 - 板载 LED（pin 9,10,11） + 外接红灯,绿灯，黄灯 + 220Ω 电阻
